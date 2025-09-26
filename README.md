@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Colin, a full stack engineer originally from Toronto and currently based in San Francisco. At the moment, I'm heading the engineering team to build the next generation of agents in the battery space @ [Ohm](https://www.ohm.ai/) (Formerly Byterat, YC W23)
+I'm Colin, a full stack engineer originally from Toronto and currently based in San Francisco. At the moment, I'm leading the engineering team and building the next generation of agents in the battery space @ [Ohm](https://www.ohm.ai/) (Formerly Byterat, YC W23)
 
 ### My usual stack:
 - Python
