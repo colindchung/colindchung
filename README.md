@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-I'm Colin, a full stack engineer originally from Toronto and currently based in San Francisco. At the moment, I'm leading the engineering team and building the next generation of agents in the battery space @ [Ohm](https://www.ohm.ai/) (Formerly Byterat, YC W23)
+I'm Colin, a full stack engineer originally from Toronto and currently based in San Francisco. At the moment, I'm leading the engineering team @ [Ohm](https://www.ohm.ai/) (Formerly Byterat, YC W23). We are building enterprise-grade ETL pipelines and the next generation of agents for data analysis in the battery industry.
 
-### My usual stack:
+### My typical stack:
 - Python
 - Typescript
-- React / Tailwind
+- Go
+- React/Vite/Tailwind
 - Postgres
 - AWS
   
