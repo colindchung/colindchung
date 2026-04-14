@@ -1,4 +1,4 @@
-I'm Colin, a full stack engineer originally from Toronto and currently based in San Francisco. At the moment, I'm the Head of Engineering team @ [Ohm](https://www.ohm.ai/) (Formerly Byterat, YC W23). We are building enterprise-grade ETL pipelines, the next generation of agents and predictive analytics for engineering labs in the battery industry.
+I'm Colin, a full stack engineer originally from Toronto and currently based in San Francisco. At the moment, I'm the Head of Engineering @ [Ohm](https://www.ohm.ai/) (Formerly Byterat, YC W23). We are building enterprise-grade ETL pipelines, the next generation of agents and predictive analytics for engineering labs in the battery industry.
 
 ### My typical stack:
 - Python
